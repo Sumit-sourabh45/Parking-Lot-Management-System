@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+
+# Compiled files (adjust based on your language)
+*.class
+*.exe
+*.o
+*.pyc
+
+# Build folders
+bin/
+out/
+target/
+# Ignore the compiled executable
+main
